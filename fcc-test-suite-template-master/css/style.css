@@ -1,0 +1,12 @@
+#nav-bar {
+    position: absolute;
+    top: 0;
+    display: flex;
+}
+
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: rgb(227, 236, 227);
+  }
+}
